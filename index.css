@@ -3,3 +3,11 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+header > div:first-child {
+    background-image: url("rm-rf.png");
+    background-repeat: no-repeat;
+    background-position-x: left;
+    width: 100%;
+    height: 100%;
+}
